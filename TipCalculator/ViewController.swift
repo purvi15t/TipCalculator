@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        //self.view.backgroundColor = UIColor.cyan
     }
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
