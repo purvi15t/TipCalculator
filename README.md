@@ -25,7 +25,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![video walktthrough](https://github.com/purvi15t/TipCalculator/blob/master/Purvi's%20Calculator%20GIF%20-%20Imgur.gif) 
+
+<img src="https://github.com/purvi15t/TipCalculator/blob/master/Purvi's%20Calculator%20GIF%20-%20Imgur.gif" width="400" height="790">
 
 GIF created with [Imgur](https://imgur.com/).
 
