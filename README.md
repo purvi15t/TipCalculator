@@ -25,9 +25,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![video walktthrough](https://github.com/purvi15t/TipCalculator/blob/master/Purvi's%20Calculator%20GIF%20-%20Imgur.gif) 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Imgur](https://imgur.com/).
 
 ## Notes
 It was an overall fun learning experience and I am glad to have the pre-work concept that helps me realize that building iOS app is really interesting and you can always learn a lot. 
